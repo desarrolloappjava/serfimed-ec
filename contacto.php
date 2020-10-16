@@ -107,7 +107,7 @@
 
 	<div class="contenedor-formulario">
 		<div class="formulario">
-			<form action="mailto:angulopaez@gmail.com" method="post" name="form1">
+			<form method="post" name="form1">
 				<div class="form-group">
 					<label for="nombre">Nombre</label>
 					<input type="text" id="nombre" class="form-control">
