@@ -1,0 +1,367 @@
+body {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+	font-size: 66px;
+	font-weight: 600;
+	line-height: 80px;
+	color: rgb(0, 147, 221);
+}
+
+.logo-empresa {
+	margin: -10px;
+	padding: 0;
+	background-color: #dededd;
+}
+
+.logo {
+	min-width: 350px;
+	max-width: 400px;
+}
+
+.navbar {
+	background-color: rgb(0, 147, 221);
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 255, .1);
+	min-height: 100px;
+}
+
+.nav-center-per {
+	margin: 0 auto;
+}
+
+.navbar-center {
+    left: 50%;
+    transform: translatex(-50%);
+  }
+
+.nav-link { 
+	color: rgb(255,255,255);
+	font-size: 1rem;
+	font-weight: bold; 	
+	padding: 10px 0;	
+}
+.nav-link:hover { 
+	color: rgba(255,255,255,.8); 
+	border-bottom: 2px solid rgb(130,131,128);
+}
+
+.navbar-toggler {font-size: 60px;}
+.navbar-toggler:focus {outline: none;}
+
+.home-link {font-size: 35px; margin-top: -10px;}
+
+#carrusel img {
+	min-width: 100%;
+	max-width: 120%;
+}
+
+.context-center {
+	max-width: 615px;
+	color: #341616;
+}
+
+.context-center p {
+	color: rgb(130,131,128);
+}
+
+.portafolio {
+	margin: 40px 50px;
+}
+
+.portafolio .card-title {
+	color: rgb(130, 131, 128);
+	font-weight: bold;
+	font-size: 1.5em;
+	text-align: center;	
+}
+
+.portafolio a {
+	text-decoration: none;
+}
+
+.portafolio .card {
+	height: 350px;
+	margin-top: 30px;
+}
+
+
+.plantilla-car {
+	margin-top: 30px;
+}
+
+.portafolio-contenedor img {
+	height: 250px;
+	margin: 6px 0;
+	-moz-transition: all 0.8s;
+	-webkit-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+.portafolio-contenedor:hover img {
+	border: 1px solid #777;
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+#servicios {
+	background-image: url('../img/fondo_servicio.jpeg');
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+	background-size: cover;
+	padding-top: 98px;
+	min-height: 500px;
+	color: #ffffff;
+}
+
+#servicios .empresasCliente {
+	padding-top: 30px;
+}
+
+#servicios .empresasCliente img {
+	height: 150px;
+}
+
+#servicios .empresasCliente .col {
+	padding: 10px 30px;
+}
+
+.redes_sociles { 
+	background-color: #dededd;
+	margin-top: 30px;
+	height: 300px;
+	padding: 40px;
+	text-align: center;
+	color: #060606;
+}
+
+.redes_sociles img {
+	margin-bottom: 30px;
+	height: 100px;
+}
+
+.redes_sociles a {
+	text-decoration: none;
+	color: #060606;
+}
+
+.redes_sociles a:hover {
+	color: rgb(0, 147, 221);
+}
+
+.redes_sociles .list-inline .list-inline-item {
+	padding: 0px 15px;
+}
+
+.somos {
+	text-align : justify;
+	height: 450px;
+	margin: 50px 0;
+	color: rgb(130, 131, 128);
+}
+
+.servicios-prestados {
+	height: 2000px;
+	padding: 50px 0;	
+}
+
+.servicios-prestados img {
+	border-radius: 25px;
+}
+
+.servicios-prestados h1 {
+	font-size: 50px;
+}
+
+.servicios-prestados .row {
+	text-align: center;
+	padding: 50px 0;
+	display: flex;
+    align-items: center;
+}
+
+.portafolio-producto .productos .card {
+	color: rgb(128,130,131);
+	text-align: center;
+	margin: 20px auto;
+	width: 36rem; 
+	height: 36rem;
+}
+
+.portafolio-producto .productos img {
+	margin: 0 auto;
+	height: 30rem;
+	width: 26rem;
+}
+
+.portafolio-producto .productos .gafas img {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	height: 25rem;
+	width: 25rem;
+}
+
+.catalogo .row {
+	margin: 40px auto;
+}
+
+.catalogo .card .font-titulo {
+	color: rgb(0, 147, 221);
+}
+
+.catalogo .card .font-subtitulo {
+	color: rgb(130,131,128);
+}
+
+.catalogo .img-catalogo {	
+	margin: 0 100px;
+	margin-bottom: -50px;
+}
+
+.catalogo .row {
+	text-align: center;
+}
+
+#bloque-flex {
+	margin-top: 150px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.contacto {
+	text-align: center;
+	margin: 30px auto;
+	padding-top: 40px;
+	width: 100%;
+}
+
+.contacto .ul-center {
+	text-align: center;
+	margin: 0 auto;
+	padding: 0px;
+}
+
+.contacto-info {
+	background-size: cover;
+	min-height: 400px;
+	text-align: center;
+	padding: 20px 0;
+	font-size: 1.5em;
+}
+
+.contacto-info img {
+	height: 300px;
+}
+
+.contacto-info .contact {
+	margin: 30px 0;
+	padding: 30px 0;
+	height: 130px;
+}
+
+.contacto-info #contacto-logo {
+	margin-bottom: -40px;
+}
+
+.contacto-info a {
+	text-decoration: none;
+}
+
+.bloque-presentacion {
+	height: 500px;
+	margin-bottom: 150px;
+}
+
+.bloque-presentacion img {
+	height: 600px;
+}
+
+.map iframe {
+	width: 1250px; 
+	height: 600px;
+}
+
+.acerca-logo {
+	height: 400px;
+	margin-bottom: 150px;
+}
+
+.acerca-logo img {
+	height: 500px;	
+}
+
+.info-acerca {
+	width: 800px;
+	color: rgb(130, 131, 128);
+}
+
+.info-acerca h2 {
+	color: rgb(0, 147, 221); 
+}
+
+.contenedor-formulario {
+	color: rgba(0, 0, 0, .9);
+	font-size: 1.2em;
+	font-weight: bold;
+	background-color: rgba(130, 131, 128, .2);
+	margin: 20px auto;
+	width: 600px;
+}
+
+.formulario {
+	margin: 20px auto;
+	padding: 30px 30px;	
+	width: 500px;
+}
+
+.formulario textarea {
+	min-width: 500px;
+	max-width: 500px;
+	min-height: 100px;
+	max-height: 200px;
+}
+
+.appWhatsapp {
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	width: 60px;
+	z-index: 1000;
+}
+
+.appWhatsapp img {
+	width: 100%;
+	height: auto;
+}
+
+@media (max-width: 575.98px) { 
+	h1 {font-size: 40px; line-height: normal;}
+	.logo-empresa img { height: 160px; }
+	.portafolio .card {height: 350px; margin-top: 30px;}	
+	.container { text-align:center; margin: auto;}
+	.empresasCliente .col { margin-left: 80px; }
+	.somos {height: 750px; text-align : justify; margin: 50px 0;}
+	.servicios-prestados { height: 3250px;}
+	.redes_sociles { height: 950px; }
+	.footer-menu {display: block !important; padding: 20px 0 !important; font-size: 20px;}
+	#footer .footer-redes { padding: 10px 3px;}
+
+
+
+	.portafolio .productos .card { width: 17rem; height: 20rem;}
+	.portafolio .productos img { width: 15rem; height: 15rem; }
+	.catalogo .catalogo-muestra img { width: 350px; }
+	.map iframe { width: 400px; height: 200px; }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.footer-menu {padding: 5px 0 !important; font-size: 20px;}
+	.servicios-prestados { height: 2300px;}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+@media (min-width: 1200px) { ... }
