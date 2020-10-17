@@ -107,7 +107,7 @@
 
 	<div class="contenedor-formulario">
 		<div class="formulario">
-			<form method="post" name="form1">
+			<form method="" name="form1">
 				<div class="form-group">
 					<label for="nombre">Nombre</label>
 					<input type="text" id="nombre" class="form-control">
@@ -122,9 +122,9 @@
 				</div>
 				<div class="form-group">
 					<label for="exampleFormControlTextarea1">Mensaje</label>
-					<textarea class="form-control" id="exampleFormControlTextarea1" rows="10"></textarea>
+					<textarea class="form-control" id="exampleFormControlTextarea1" rows="10" placeholder="Lo sentido esté apartado está en construcción"></textarea>
 				</div>
-				<button type="submit" class="btn btn-primary btn-lg" name="enviar">Enviar</button>
+				<button type="button" class="btn btn-primary btn-lg" name="enviar">Enviar</button>
 			</form>
 		</div>
 	</div>
