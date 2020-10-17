@@ -11,11 +11,11 @@
 				<div class="col12 col-sm-6">
 					<img src="img/logo-sin-fondo.png">
 					<ul class="list-inline">
-						<li class="list-inline-item footer-menu"><a href="index.html">Inicio</a></li>
-						<li class="list-inline-item footer-menu"><a href="presentacion.html">Somos</a></li>
-						<li class="list-inline-item footer-menu"><a href="productos.html">Productos</a></li>
-						<li class="list-inline-item footer-menu"><a href="catalogo.html">Catálogo</a></li>
-						<li class="list-inline-item footer-menu"><a href="contacto.html">Contactanos</a></li>
+						<li class="list-inline-item footer-menu"><a href="index.php">Inicio</a></li>
+						<li class="list-inline-item footer-menu"><a href="presentacion.php">Somos</a></li>
+						<li class="list-inline-item footer-menu"><a href="productos.php">Productos</a></li>
+						<li class="list-inline-item footer-menu"><a href="catalogo.php">Catálogo</a></li>
+						<li class="list-inline-item footer-menu"><a href="contacto.php">Contactanos</a></li>
 					</ul>
 					<ul class="list-inline"> 
 						<li class="list-inline-item footer-redes"><a href="https://www.instagram.com/serfimed.ec/" target="_blank" title="instagram"><ion-icon name="logo-instagram"></ion-icon></a></li>
