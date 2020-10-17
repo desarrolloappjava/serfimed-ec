@@ -37,7 +37,7 @@
 	</div>
 
 	<div class="appWhatsapp">
-		<a  href="https://api.whatsapp.com/send?phone=593963021078&text=Hola!&nbsp;Gracias&nbsp;por&nbsp;comunicarte&nbsp;con&nbsp;SERFIMED!&nbsp;Podemos&nbsp;ayudarte?" target="_blank">
+		<a  href="https://api.whatsapp.com/send?phone=593963021078&text=Por&nbsp;favor&nbsp;necesito&nbsp;una&nbsp;asesoría." target="_blank">
 			<img src="img/whatsapp.png" alt="whatsapp">
 		</a>
 	</div>
