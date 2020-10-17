@@ -54,7 +54,7 @@
 				<div class="card" style="width: 18rem;">
 					<img src="img/asesoria.png" class="card-img-top" alt="...">
 					<div class="card-body">
-						<a href="servicios.html"><h5 class="card-title">Asesoría y Licenciamiento</h5></a>
+						<a href="servicios.php"><h5 class="card-title">Asesoría y Licenciamiento</h5></a>
 					</div>
 				</div>
 			</div>
@@ -62,7 +62,7 @@
 				<div class="card" style="width: 18rem;">
 					<img src="img/evaluacion.png" class="card-img-top" alt="...">
 					<div class="card-body">
-						<a href="servicios.html"><h5 class="card-title">Evaluación de blindaje</h5></a>
+						<a href="servicios.php"><h5 class="card-title">Evaluación de blindaje</h5></a>
 					</div>
 				</div>
 			</div>
@@ -70,7 +70,7 @@
 				<div class="card" style="width: 18rem;">
 					<img src="img/calculo_blindaje.png" class="card-img-top" alt="...">
 					<div class="card-body">
-						<a href="servicios.html"><h5 class="card-title">Cálculo de blindaje</h5></a>
+						<a href="servicios.php"><h5 class="card-title">Cálculo de blindaje</h5></a>
 					</div>
 				</div>
 			</div>			
@@ -81,7 +81,7 @@
 				<div class="card" style="width: 18rem;">
 					<img src="img/licenciamiento.png" class="card-img-top" alt="...">
 					<div class="card-body">
-						<a href="catalogo.html"><h5 class="card-title">Mandiles plomados</h5></a>
+						<a href="catalogo.php"><h5 class="card-title">Mandiles plomados</h5></a>
 					</div>
 				</div>
 			</div>
@@ -89,7 +89,7 @@
 				<div class="card" style="width: 18rem;">
 					<img src="img/programaPR.png" class="card-img-top" alt="...">
 					<div class="card-body">
-						<a href="servicios.html"><h5 class="card-title">Programa de protección radiológica</h5></a>
+						<a href="servicios.php"><h5 class="card-title">Programa de protección radiológica</h5></a>
 					</div>
 				</div>
 			</div>
