@@ -20,12 +20,8 @@ if(isset($_POST['enviar'])){
 		$mensajeRespuesta = "Si estás recibiendo este mensaje es porque esta en nuestra bandeja de entrada, te responderemos a la brevedad posible";
 
 		$para = 'serfimed.ec@gmail.com';
-		$paraDos = 'asesor@serfimed.com';
-		$asunto = strip_tags($_POST['asunto']);
 
 		mail($para, $asunto, utf8_decode($mensaje), $header);
-		mail($paraDos, $asunto, utf8_decode($mensaje), $header);
-		mail($mail, "Gracias por comunicarse con SERFIMED", utf8_decode($mensajeRespuesta));
 
 		header("Location:contacto.php");
 
