@@ -19,7 +19,7 @@ if(isset($_POST['enviar'])){
 
 		$mensajeRespuesta = "Si estás recibiendo este mensaje es porque esta en nuestra bandeja de entrada, te responderemos a la brevedad posible";
 
-		$para = 'gerencia@serfimed.com';
+		$para = 'serfimed.ec@gmail.com';
 		$paraDos = 'asesor@serfimed.com';
 		$asunto = strip_tags($_POST['asunto']);
 
